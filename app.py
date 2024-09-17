@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import ssl
+import ssl 
 
 def extração_bcb(codigo, data_inicio, data_final):
     import ssl
